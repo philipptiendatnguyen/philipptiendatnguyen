@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00c6ff&height=220&section=header&animation=fadeIn" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/main/.assets/none.png" height="0"/>
+<img src="https://raw.githubusercontent.com/philipptiendatnguyen/philipptiendatnguyen/main/.assets/none.png" height="0"/>
 
 <a href="https://www.linkedin.com/in/philipp-tiendat-nguyen-4a2b413a9">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Philipp+Tien+Dat+Nguyen;Business+Informatics+%40+HWR+Berlin;Dual+Student+%40+Fujitsu;Building+things+with+code+%F0%9F%92%BB" alt="Typing SVG" />
@@ -13,10 +13,10 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philipp-tiendat-nguyen-4a2b413a9)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:philippnguyen962@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:philipptiendatnguyen@gmail.com)
 [![Location](https://img.shields.io/badge/-Berlin%2C%20Germany-2C5364?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=00c6ff&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=philipptiendatnguyen&color=00c6ff&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -77,8 +77,8 @@ Als Dual Student im Bereich Business Informatics bei **Fujitsu** verbinde ich pr
 
 <div align="center">
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME/budgetlens">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=budgetlens&theme=tokyonight&hide_border=true&description_lines_count=3" />
+<a href="https://github.com/philipptiendatnguyen/budgetlens">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=philipptiendatnguyen&repo=budgetlens&theme=tokyonight&hide_border=true&description_lines_count=3" />
 </a>
 
 <br><br>
@@ -134,12 +134,12 @@ Als Dual Student im Bereich Business Informatics bei **Fujitsu** verbinde ich pr
 
 ### 📊&nbsp; GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=philipptiendatnguyen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philipptiendatnguyen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=philipptiendatnguyen&theme=tokyonight&hide_border=true&background=0D1117"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=philipptiendatnguyen&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
 
 </div>
 
@@ -149,7 +149,7 @@ Als Dual Student im Bereich Business Informatics bei **Fujitsu** verbinde ich pr
 
 ### 🐍&nbsp; Contribution Snake
 
-<img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/philipptiendatnguyen/philipptiendatnguyen/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <sub>Snake-Animation wird automatisch generiert, sobald der <a href="https://github.com/Platane/snk">Platane/snk GitHub Action</a> in diesem Repo eingerichtet ist (siehe Hinweis unten).</sub>
 
@@ -161,7 +161,7 @@ Als Dual Student im Bereich Business Informatics bei **Fujitsu** verbinde ich pr
 
 ### 💌&nbsp; Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philipp-tiendat-nguyen-4a2b413a9)
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philipp-tien-dat-nguyen-4a2b413a9/)
 [![Gmail](https://img.shields.io/badge/-Say%20Hi%20via%20Mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:philippnguyen962@gmail.com)
 
 <br>
