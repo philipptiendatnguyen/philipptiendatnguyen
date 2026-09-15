@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00c6ff&height=220&section=header&animation=fadeIn" width="100%"/>
