@@ -43,9 +43,8 @@ As a Dual Student in Business Informatics at **Fujitsu**, I combine practice-ori
 
 - 🔭 Currently a Dual Student at **Fujitsu**
 - 📚 Studying **Business Informatics** at HWR Berlin
-- 📜 5× Microsoft/LinkedIn certifications (Data, AI, Cybersecurity, Business Analysis)
+- 📜 5× Microsoft/LinkedIn certifications (Data, AI, Cybersecurity, Business Analysis, Programming)
 - 🌍 Based in **Berlin**, Germany
-- ⚡ Fun fact: my latest project has **0 external dependencies**
 
 </td>
 </tr>
@@ -83,7 +82,6 @@ As a Dual Student in Business Informatics at **Fujitsu**, I combine practice-ori
 <img src="https://img.shields.io/badge/Tkinter-GUI-4B8BBE?style=flat-square"/>
 <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/unittest-11%2F11%20passing-2ea44f?style=flat-square"/>
-<img src="https://img.shields.io/badge/dependencies-ZERO-critical?style=flat-square"/>
 
 </div>
 
@@ -104,7 +102,6 @@ As a Dual Student in Business Informatics at **Fujitsu**, I combine practice-ori
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/dependencies-ZERO-critical?style=flat-square"/>
 <a href="https://philipptiendatnguyen.github.io/pathfinder/"><img src="https://img.shields.io/badge/Live%20Demo-00c6ff?style=flat-square&logo=vercel&logoColor=white"/></a>
 
 </div>
