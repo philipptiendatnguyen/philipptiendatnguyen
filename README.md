@@ -59,7 +59,7 @@ Als Dual Student im Bereich Business Informatics bei **Fujitsu** verbinde ich pr
 
 ### 🧰&nbsp; Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,html,css,py,java,nodejs,cs,sqlite,azure,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,html,css,py,java,sqlite,git,github,vscode&theme=dark" />
 
 </div>
 
@@ -163,8 +163,6 @@ Als Dual Student im Bereich Business Informatics bei **Fujitsu** verbinde ich pr
 [![Gmail](https://img.shields.io/badge/-Say%20Hi%20via%20Mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:philippnguyen962@gmail.com)
 
 <br>
-
-*"Digital transformation starts with curiosity — and a little bit of code."*
 
 </div>
 
