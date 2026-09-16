@@ -149,9 +149,8 @@ Als Dual Student im Bereich Business Informatics bei **Fujitsu** verbinde ich pr
 
   <div>
     <picture>
-      <source style="min-width: 100%;" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mejbaul-km/mejbaul-km/output/github-snake-dark.svg">
-      <source style="min-width: 100%;" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mejbaul-km/mejbaul-km/output/github-snake.svg">
-      <img style="min-width: 100%;" src="https://raw.githubusercontent.com/mejbaul-km/mejbaul-km/output/github-snake.svg" alt="GitHub Snake">
+      <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+      <img alt="github-snake" src="github-snake.svg" />
     </picture>
   </div>
 
