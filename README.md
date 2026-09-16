@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00c6ff&height=220&section=header&animation=fadeIn" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/philipptiendatnguyen/philipptiendatnguyen/main/.assets/none.png" height="0"/>
-
 <a href="https://www.linkedin.com/in/philipp-tiendat-nguyen-4a2b413a9">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Philipp+Tien+Dat+Nguyen;Business+Informatics+%40+HWR+Berlin;Dual+Student+%40+Fujitsu;Building+things+with+code+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
@@ -29,25 +27,25 @@
 ### 🧑‍💻&nbsp; About Me
 
 ```yaml
-🎓 studium:    B.Sc. Business Informatics @ HWR Berlin
+🎓 education:  B.Sc. Business Informatics @ HWR Berlin
 🏢 position:   Dual Student - Business Informatics @ Fujitsu
-📍 standort:   Berlin, Steglitz-Zehlendorf
-🌱 fokus:      Digital Transformation · Business Analysis · Data & AI
-💬 sprachen:   Deutsch (Muttersprache) · Englisch (Verhandlungssicher)
+📍 location:   Berlin, Steglitz-Zehlendorf
+🌱 focus:      Digital Transformation · Business Analysis · Data & AI
+💬 languages:  German (Native) · English (Professional)
 ```
 
-Als Dual Student im Bereich Business Informatics bei **Fujitsu** verbinde ich praxisorientierte Projektarbeit mit meinem Bachelorstudium an der **HWR Berlin**. Mein Interesse an digitaler Transformation sowie meine Kenntnisse in Business Analysis, JavaScript und CSS habe ich bereits im Informatik-Leistungskurs am Paulsen-Gymnasium entwickelt. Erste praktische Erfahrung sammelte ich als Marketing Intern bei der Eventus Media International GmbH.
+As a Dual Student in Business Informatics at **Fujitsu**, I combine practice-oriented project work with my Bachelor's studies at the **Berlin School of Economics and Law (HWR Berlin)**. My interest in digital transformation, along with my skills in business analysis, JavaScript, and CSS, developed during my Informatik Leistungskurs at Paulsen Gymnasium Berlin. I gained my first hands-on experience as a Marketing Intern at Eventus Media International GmbH.
 
 </td>
 <td width="40%" valign="top">
 
 ### ⚡&nbsp; Quick Facts
 
-- 🔭 Aktuell bei **Fujitsu** als Dual Student
-- 📚 Studiere **Business Informatics** an der HWR Berlin
-- 📜 5× Microsoft/LinkedIn-Zertifizierungen (Data, AI, Cybersecurity, Business Analysis)
-- 🌍 Wohnhaft in **Berlin**, Deutschland
-- ⚡ Fun Fact: mein letztes Projekt hat **0 externe Dependencies**
+- 🔭 Currently a Dual Student at **Fujitsu**
+- 📚 Studying **Business Informatics** at HWR Berlin
+- 📜 5× Microsoft/LinkedIn certifications (Data, AI, Cybersecurity, Business Analysis)
+- 🌍 Based in **Berlin**, Germany
+- ⚡ Fun fact: my latest project has **0 external dependencies**
 
 </td>
 </tr>
@@ -76,7 +74,7 @@ Als Dual Student im Bereich Business Informatics bei **Fujitsu** verbinde ich pr
 <div align="center">
 
 <a href="https://github.com/philipptiendatnguyen/budgetlens">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=philipptiendatnguyen&repo=budgetlens&theme=tokyonight&hide_border=true&description_lines_count=3" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=philipptiendatnguyen&repo=budgetlens&theme=tokyonight&hide_border=true&description_lines_count=3" />
 </a>
 
 <br><br>
@@ -89,25 +87,25 @@ Als Dual Student im Bereich Business Informatics bei **Fujitsu** verbinde ich pr
 
 </div>
 
-> 💰 **BudgetLens** — eine lokale Budget-Analyse-Desktop-App, die Kontoauszüge per CSV importiert, Transaktionen automatisch anhand von Schlüsselwörtern kategorisiert und in einem Dashboard mit selbst gezeichnetem Balkendiagramm zeigt, wo Budgets über- oder unterschritten wurden. Bewusst **ohne jede externe Bibliothek** gebaut — nur `tkinter`, `sqlite3`, `csv`, `unittest` — für maximale Stabilität ganz ohne `pip install`.
+> 💰 **BudgetLens** — a local budget-analysis desktop app that imports bank statements via CSV, automatically categorizes transactions using keyword rules, and shows in a dashboard where budgets were over- or under-spent, including a custom-drawn bar chart. Built deliberately **without a single external library** — only `tkinter`, `sqlite3`, `csv`, `unittest` — for maximum stability with zero `pip install` required.
 >
-> **Highlights:** CSV-Import mit zeilenweisem Fehlerhandling · regelbasierte Kategorisierung · Duplikatserkennung · Budgetverwaltung je Kategorie/Monat · 11 automatisierte Unittests
+> **Highlights:** row-level error handling on CSV import · rule-based auto-categorization · duplicate detection · per-category/month budgeting · 11 automated unit tests
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:00c6ff&height=3&width=100%" width="100%"/>
 
 <div align="center">
 
-### 🎓&nbsp; Ausbildung
+### 🎓&nbsp; Education
 
 </div>
 
 <div align="center">
 
-| | Institution | Abschluss | Zeitraum |
+| | Institution | Degree | Period |
 |:---:|---|---|:---:|
 | 🎒 | **The Berlin School of Economics and Law (HWR Berlin)** | B.Sc. Business Informatics | 07/2026 – 10/2029 |
-| 🏫 | **Paulsen Gymnasium** | Allgemeine Hochschulreife (Abitur) | 09/2024 – 06/2026 |
-| 🏫 | **Paulsen Gymnasium** | Mittlerer Schulabschluss | 08/2020 – 07/2024 |
+| 🏫 | **Paulsen Gymnasium** | Abitur (German university entrance qualification) | 09/2024 – 06/2026 |
+| 🏫 | **Paulsen Gymnasium** | Mittlerer Schulabschluss (secondary school diploma) | 08/2020 – 07/2024 |
 
 </div>
 
@@ -115,14 +113,14 @@ Als Dual Student im Bereich Business Informatics bei **Fujitsu** verbinde ich pr
 
 <div align="center">
 
-### 📜&nbsp; Zertifizierungen
+### 📜&nbsp; Certifications
 
-<img src="https://img.shields.io/badge/Grundwissen_Datenanalyse-Microsoft_%26_LinkedIn-00c6ff?style=flat-square&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_KI_Grundwissen-Workloads_%26_ML-0089D6?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grundwissen_Cybersecurity-Microsoft_%26_LinkedIn-00c6ff?style=flat-square&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Analysis_Essentials-Microsoft_%26_LinkedIn-00c6ff?style=flat-square&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_AI_Fundamentals-Workloads_%26_ML-0089D6?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cybersecurity_Essentials-Microsoft_%26_LinkedIn-00c6ff?style=flat-square&logo=microsoft&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Azure_KI_Grundwissen-Fachzertifikat-0089D6?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grundwissen_Business_Analyse-Microsoft_%26_LinkedIn-00c6ff?style=flat-square&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_AI_Fundamentals-Professional_Certificate-0089D6?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Business_Analysis_Essentials-Microsoft_%26_LinkedIn-00c6ff?style=flat-square&logo=microsoft&logoColor=white"/>
 
 </div>
 
@@ -132,8 +130,8 @@ Als Dual Student im Bereich Business Informatics bei **Fujitsu** verbinde ich pr
 
 ### 📊&nbsp; GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=philipptiendatnguyen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philipptiendatnguyen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=philipptiendatnguyen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=philipptiendatnguyen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=philipptiendatnguyen&theme=tokyonight&hide_border=true&background=0D1117"/>
 
@@ -147,12 +145,10 @@ Als Dual Student im Bereich Business Informatics bei **Fujitsu** verbinde ich pr
 
 ### 🐍&nbsp; Contribution Snake
 
-  <div>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-      <img alt="github-snake" src="github-snake.svg" />
-    </picture>
-  </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/philipptiendatnguyen/philipptiendatnguyen/output/github-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/philipptiendatnguyen/philipptiendatnguyen/output/github-snake.svg" width="100%"/>
+</picture>
 
 </div>
 
@@ -162,10 +158,8 @@ Als Dual Student im Bereich Business Informatics bei **Fujitsu** verbinde ich pr
 
 ### 💌&nbsp; Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philipp-tien-dat-nguyen-4a2b413a9/)
-[![Gmail](https://img.shields.io/badge/-Say%20Hi%20via%20Mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:philippnguyen962@gmail.com)
-
-<br>
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philipp-tiendat-nguyen-4a2b413a9)
+[![Gmail](https://img.shields.io/badge/-Say%20Hi%20via%20Mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:philipptiendatnguyen@gmail.com)
 
 </div>
 
