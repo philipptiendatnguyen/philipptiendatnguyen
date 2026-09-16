@@ -67,7 +67,7 @@ As a Dual Student in Business Informatics at **Fujitsu**, I combine practice-ori
 
 <div align="center">
 
-### 📌&nbsp; Featured Project
+### 📌&nbsp; Featured Projects
 
 </div>
 
@@ -90,6 +90,30 @@ As a Dual Student in Business Informatics at **Fujitsu**, I combine practice-ori
 > 💰 **BudgetLens** — a local budget-analysis desktop app that imports bank statements via CSV, automatically categorizes transactions using keyword rules, and shows in a dashboard where budgets were over- or under-spent, including a custom-drawn bar chart. Built deliberately **without a single external library** — only `tkinter`, `sqlite3`, `csv`, `unittest` — for maximum stability with zero `pip install` required.
 >
 > **Highlights:** row-level error handling on CSV import · rule-based auto-categorization · duplicate detection · per-category/month budgeting · 11 automated unit tests
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/philipptiendatnguyen/pathfinder">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=philipptiendatnguyen&repo=pathfinder&theme=tokyonight&hide_border=true&description_lines_count=3" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/dependencies-ZERO-critical?style=flat-square"/>
+<a href="https://philipptiendatnguyen.github.io/pathfinder/"><img src="https://img.shields.io/badge/Live%20Demo-00c6ff?style=flat-square&logo=vercel&logoColor=white"/></a>
+
+</div>
+
+> 🧭 **PathFinder Visualizer** — an interactive web app that visualizes pathfinding algorithms live on a grid. Draw walls, place start/end points, pick an algorithm and watch Dijkstra, A*, BFS, or DFS work their way through the maze in real time. Built entirely with vanilla HTML, CSS, and JavaScript — no frameworks, no build tools.
+>
+> **Highlights:** step-by-step animation with adjustable speed · custom-built priority queue (min-heap) for Dijkstra/A* · recursive-division maze generator · draggable start/end points · live stats on visited nodes, path length, and runtime
+>
+> 🔗 [**Live Demo**](https://philipptiendatnguyen.github.io/pathfinder/)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:00c6ff&height=3&width=100%" width="100%"/>
 
