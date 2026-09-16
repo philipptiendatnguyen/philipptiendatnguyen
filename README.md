@@ -147,9 +147,10 @@ Als Dual Student im Bereich Business Informatics bei **Fujitsu** verbinde ich pr
 
 ### 🐍&nbsp; Contribution Snake
 
-<img src="https://raw.githubusercontent.com/philipptiendatnguyen/philipptiendatnguyen/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>Snake-Animation wird automatisch generiert, sobald der <a href="https://github.com/Platane/snk">Platane/snk GitHub Action</a> in diesem Repo eingerichtet ist (siehe Hinweis unten).</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 </div>
 
